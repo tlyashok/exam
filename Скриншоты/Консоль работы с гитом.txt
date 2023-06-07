@@ -1,0 +1,6 @@
+cd C:\Users\Huawei\Desktop\test_exam\
+git init
+git remote add exam https://github.com/tlyashok/exam
+git add .
+git commit 
+git push
